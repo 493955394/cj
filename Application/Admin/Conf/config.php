@@ -3,9 +3,9 @@ return array(
 	//数据库配置'配置项'=>'配置值'
 	'DB_TYPE'=>'mysql',
     'DB_HOST'=>'localhost',
-    'DB_NAME'=>'cjkj',
-    'DB_USER'=>'root',
-    'DB_PWD'=>'root',
+    'DB_NAME'=>'cj',
+    'DB_USER'=>'cj',
+    'DB_PWD'=>'Y4PWcCn8TkG8wXXW',
     'DB_PORT'=>'3306',
     'DB_PREFIX' => '',
     //分页参数配置
